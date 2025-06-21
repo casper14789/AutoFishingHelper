@@ -34,8 +34,8 @@
 
 ### 🔄 線上更新機制
 
-啟動程式時會自動檢查 GitHub 上的 version.json：
-若版本不同，將自動下載並啟動新版，並關閉舊版。
+- 啟動程式時會自動檢查 GitHub 上的 version.json：
+- 若版本不同，將自動下載並啟動新版，並關閉舊版。
 
 ---
 
@@ -58,5 +58,5 @@
 
 ### 📜 授權
 
-MIT License
-作者：Casper
+- MIT License
+- 作者：Casper
