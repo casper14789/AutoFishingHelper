@@ -43,8 +43,11 @@
 
 .
 ├── fishing_bot.py         # 主程式（含線上更新邏輯）
+
 ├── config.json            # 全域設定檔（自動產生）
+
 ├── user_configs/          # 使用者自訂設定資料夾
+
 ├── samples/               # 偵測用樣本圖片儲存位置
 
 ---
